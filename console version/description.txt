@@ -1,0 +1,1 @@
+A 9*9 XoXo board game and the winner is declared when the player have a winning pattern in the big grid (he has to win in the small grids and form winning pattern in the big grid ) - using C++ & minmax algorithm 
